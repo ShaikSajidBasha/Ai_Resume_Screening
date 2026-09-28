@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F7F5F0;
+  color: #1D2E48;
+}
+
+.font-tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+::selection {
+  background-color: #E8A33D;
+  color: #0F1B2D;
+}
+
+:focus-visible {
+  outline: 2px solid #0E7C7B;
+  outline-offset: 2px;
+}

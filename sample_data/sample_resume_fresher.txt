@@ -1,0 +1,33 @@
+Priya Sharma
+priya.sharma@email.com | +91-9876543210 | linkedin.com/in/priyasharma
+
+SUMMARY
+Final-year Computer Science student passionate about backend development and machine
+learning, with hands-on project experience building full-stack applications.
+
+EDUCATION
+B.Tech in Computer Science, ABC Institute of Technology, 2022-2026 (Expected)
+
+SKILLS
+Python, SQL, Git, Java, Machine Learning, HTML, CSS, JavaScript, MySQL
+
+PROJECTS
+Student Performance Predictor
+Developed a machine learning-based system using Python and Scikit-learn to predict
+student performance based on historical academic data, achieving 87% accuracy.
+
+Library Management System
+Built a full-stack library management system using Python and MySQL, reducing manual
+record-keeping effort for library staff.
+
+INTERNSHIPS
+Summer Intern, DataCraft Labs (May 2025 - July 2025)
+Worked on data cleaning and exploratory analysis pipelines using Python and SQL for a
+client-facing analytics dashboard.
+
+CERTIFICATIONS
+Google Data Analytics Certificate
+Python for Everybody (Coursera)
+
+ACHIEVEMENTS
+Winner, Inter-College Hackathon 2025 (Team of 4, built an AI-based attendance system)

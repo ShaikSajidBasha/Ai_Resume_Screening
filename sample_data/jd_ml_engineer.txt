@@ -1,0 +1,28 @@
+Job Title: Machine Learning Engineer
+Company: NeuralWorks AI
+
+About the Role:
+We are looking for a Machine Learning Engineer to design, build, and deploy ML models
+into production systems.
+
+Required Skills:
+- Python
+- Machine Learning
+- TensorFlow or PyTorch
+- SQL
+- Model Deployment
+
+Preferred Skills:
+- MLOps
+- Docker
+- Kubernetes
+- Cloud (AWS/GCP/Azure)
+
+Responsibilities:
+- Build and train machine learning models
+- Deploy models to production
+- Monitor model performance
+- Collaborate with data engineering teams
+
+Education: Bachelor's or Master's in Computer Science, Data Science, or related field.
+Experience: 5+ years of experience with production ML systems.

@@ -1,0 +1,29 @@
+Job Title: Software Developer (Entry Level)
+Company: TechNova Solutions
+
+About the Role:
+We are looking for a motivated Software Developer to join our engineering team. This is
+an entry-level role suited for recent graduates with strong fundamentals in programming
+and a passion for building scalable web applications.
+
+Required Skills:
+- Python
+- SQL
+- Git
+- REST APIs
+- Data Structures and Algorithms
+
+Preferred Skills:
+- FastAPI
+- React
+- Docker
+- AWS
+
+Responsibilities:
+- Develop and maintain backend services
+- Write clean, tested, maintainable code
+- Collaborate with cross-functional teams
+- Participate in code reviews
+
+Education: Bachelor's degree in Computer Science, IT, or related field.
+Experience: 0-1 years (fresh graduates encouraged to apply).
